@@ -1,0 +1,8 @@
+bin
+obj
+numbers1.txt
+numbers2.txt
+.DS_Store
+.vscode
+data.log
+numbers.txt
